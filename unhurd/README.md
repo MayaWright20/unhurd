@@ -13,7 +13,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, create a `.env` file in the root folder and add your spotify ID and secret like in the `.env.example`. file.
+First, create a `.env.local` file in the root folder and add your spotify ID and secret like in the `.env.example`. file.
 
 Next run 
 ```
